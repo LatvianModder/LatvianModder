@@ -4,4 +4,4 @@
 
 # Join my Discord Server!
 
-[![](https://discordapp.com/api/guilds/303440391124942858/widget.png?style=banner2)](https://discord.gg/latviandev)
+[![](https://discordapp.com/api/guilds/303440391124942858/widget.png?style=banner2)](https://discord.gg/lat)
