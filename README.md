@@ -1,7 +1,7 @@
 # My Stats
 
-![Lat's GitHub stats](https://github-readme-stats.vercel.app/api?username=LatvianModder&theme=dracula&show_icons=true&count_private=true)
-
+![Lat's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=LatvianModder&show_icons=true&theme=merko)
+![](https://github-readme-stats-fast.vercel.app/api/wakatime/?username=Lat&show_icons=true&theme=merko&langs_count=10&layout=compact)
 
 # Join my Discord Server!
 
